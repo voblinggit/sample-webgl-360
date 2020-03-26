@@ -1,0 +1,16 @@
+{
+"companyName": "Vobling",
+"productName": "AlfaLaval",
+"productVersion": "0.1",
+"dataUrl": "sample360-webgl.data.unityweb",
+"wasmCodeUrl": "sample360-webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "sample360-webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
